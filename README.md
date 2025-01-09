@@ -11,8 +11,9 @@ tools to complete exercises.
 ## Setup
 
 1. Create a Fork of this repository.
-2. Add/Commit/Push your own work to a `mywork/` directory.
-3. Update your fork when instructed by using the instructions below.
+2. Clone your new repository to your local machine.
+3. Add/Commit/Push your own work to a `mywork/` directory.
+4. Update your fork when instructed by using the instructions below.
 
 ## Updating your fork 
 

@@ -1,5 +1,6 @@
 # Labs
 
+## Required
 - Lab 1: Working with the Command Line
 - Lab 2: Working with Git and GitHub
 - Lab 3: Basic Scripting in bash and Python
@@ -11,3 +12,6 @@
 - Lab 9: Working with APIs and Docker
 - Lab 10: Apache Airflow
 
+## Optional
+
+TBA

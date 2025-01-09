@@ -8,6 +8,12 @@ and tools will be distributed in this way so that we all have a common set of to
 This requires that you clone and stay current with the **course code respository** and have the appropriate
 tools to complete exercises. 
 
+## Setup
+
+1. Create a Fork of this repository.
+2. Add/Commit/Push your own work to a `mywork/` directory.
+3. Update your fork when instructed by using the instructions below.
+
 ## Updating your fork 
 
 To stay current with new releases into the course repository, follow these steps:
